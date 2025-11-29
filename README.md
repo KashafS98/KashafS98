@@ -1,10 +1,10 @@
 Hi there 👋
-I am Kashaf, a front-end dev at https://nexweave.com. I'm also a writer, a reader and an art/aesthetics enthusiast. I read, watch cinematic movies and I love music! 
-- I am currently working with a MarTach company creating a Ads and campaigns manager, diving deep into UX/UI and writing vanilla JS!
-- 🔭 I helped build a SaaS platform that provides Interactive and Personalized solutions for all kind of businesses with a team of amazing developers. 
-- 🌱 I’m currently learning React in depth, along with sharpening my skills at CSS and JS
+I am Kashaf, a Lead Engineer at dentsu. I'm also a writer, a reader and an art/aesthetics enthusiast. I read, watch cinematic movies, and I love music! 
+- I am currently leading a team of brilliant engineers in MarTech, building influencer marketing, campaign experimentation and creative intelligence tools in React/Node and SQL
+- 🔭 In the past, I have helped build a SaaS platform that provides Interactive and personalised solutions for all kinds of businesses with a team of amazing developers. 
+- 🌱 I’m currently sharpening my leadership skills with programmes like POWER for Partners by Google and Female Fast Forward.
 - 👯 I’m looking to collaborate on something that brings out my values aesthetically and pokes at my creativity.
-- 💬 Ask me about React, JS, CSS (I'm a self-proclaimed flex master!), React, Redux, UMIjs, DVAjs, AntDesign, Front-end development, UI/UX, Martech solutions
+- 💬 Ask me about React, JS, CSS (I'm a self-proclaimed flex master!), UI/UX and solution architecting Martech tools
 - 📫 How to reach me: kashaf.tshaikh@gmail.com or https://wordwarrior.in
 - 😄 Pronouns: she, her
 - ⚡ Fun fact: I'm a crazy Potterhead <3
